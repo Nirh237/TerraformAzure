@@ -7,6 +7,6 @@
 
 
 ## Project Overview
-This projects build the infrastructure of the WeightTracker App application (which can be found in WeightApp folder) using Terraform with Azure.
+This projects build the infrastructure of the WeightTracker App application using Terraform with Azure.
 
 
